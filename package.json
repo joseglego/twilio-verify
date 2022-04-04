@@ -1,0 +1,11 @@
+{
+  "name": "twilio-verify",
+  "version": "1.0.0",
+  "description": "a test for twilio-verify",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-cli": "^9.16.2",
+    "twilio": "^3.76.0"
+  }
+}
